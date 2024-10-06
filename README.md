@@ -4,9 +4,7 @@ This repository contains notes on various topics related to my learning process.
 
 ## Table of Contents
 
-| Topic   | Notes         |
-|---------|---------------|
-| Next.js | [Next.js Notes](./notes/nextjs/nextjs.md) |
+- [Next.js Notes](./notes/nextjs/nextjs.md)
 
 Feel free to explore the notes as I continue to update them with new topics and insights.
 
