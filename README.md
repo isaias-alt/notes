@@ -6,9 +6,9 @@ This repository contains notes on various topics related to my learning process.
 
 ## Table of Contents
 
-- [HTML]()
-- [JavaScript]()
-- [Next.js]()
+- [HTML](https://github.com/isaias-alt/Notes/blob/main/Notas%20de%20Programacion/HTML/HTML.md)
+- [JavaScript](https://github.com/isaias-alt/Notes/tree/main/Notas%20de%20Programacion/JavaScript)
+- [Next.js](https://github.com/isaias-alt/Notes/blob/main/Notas%20de%20Programacion/NextJS/NextJS.md)
 
 Feel free to explore the notes as I continue to update them with new topics and insights.
 
