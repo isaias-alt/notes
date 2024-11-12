@@ -1,3 +1,5 @@
+# Next.js
+
 Next.js es un framework de React que permite crear aplicaciones web rápidas y eficientes con *server-side rendering* y *static site generation.*
 
 **Server-Side Rendering (SSR):** es cuando las páginas web se generan en el servidor cada vez que se solicita una, enviando al navegador una página completamente renderizada.

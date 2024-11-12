@@ -1,3 +1,5 @@
+# Introducción a JavaScript
+
 **JavaScript** es uno de los lenguajes de programación más usados y populares del mundo. **Nació en 1995** para darle interactividad a las páginas web y desde entonces ha evolucionado hasta convertirse en un **lenguaje de programacion de proposito general.**
 
 ## Tipos de Datos
