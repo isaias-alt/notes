@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "4d6bf194bacb924e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e0abd517d13254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f4ca0fb8ad92fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eb844654571e7dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb4f452a95cbb3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca20e9b241f82c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab9998a9b6d1b36a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a93ea41e8dfe2bb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eb0960ef14000df",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d53c2881af2c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2301ef9beba34738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fa148d69da99fb0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "534fd1402d912e59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8180a72738a77af6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ca20e9b241f82c9",
+  "lastOpenFiles": [
+    "Programming Notes/HTML/html.md",
+    "Programming Notes/ArpaJS/arpa.md",
+    "Programming Notes/ArpaJS",
+    "Programming Notes/arpa-js/arpa.md",
+    "Programming Notes/arpa-js/notes.md",
+    "Programming Notes/arpa-js",
+    "Programming Notes/SODEP/Analisis.md",
+    "Programming Notes/SODEP/Notas.md",
+    "Programming Notes/SODEP/como usuario puedo ver los detalles del prestamo.md",
+    "README.md",
+    "Programming Notes/HTML/HTML.md",
+    "Untitled.md",
+    "Programming Notes/SODEP"
+  ]
+}
